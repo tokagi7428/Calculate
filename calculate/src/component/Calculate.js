@@ -1,4 +1,4 @@
-import { Button, Table } from "react-bootstrap";
+import { Button } from "react-bootstrap";
 import { useState } from "react";
 import "./Calculate";
 function Calculate() {
